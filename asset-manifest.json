@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Prasadprd.github.io/MonstersRolodexProject/static/css/main.6dc1deef.chunk.css",
+    "main.js": "/Prasadprd.github.io/MonstersRolodexProject/static/js/main.5e242992.chunk.js",
+    "main.js.map": "/Prasadprd.github.io/MonstersRolodexProject/static/js/main.5e242992.chunk.js.map",
+    "runtime-main.js": "/Prasadprd.github.io/MonstersRolodexProject/static/js/runtime-main.f6bcf97e.js",
+    "runtime-main.js.map": "/Prasadprd.github.io/MonstersRolodexProject/static/js/runtime-main.f6bcf97e.js.map",
+    "static/js/2.356d906f.chunk.js": "/Prasadprd.github.io/MonstersRolodexProject/static/js/2.356d906f.chunk.js",
+    "static/js/2.356d906f.chunk.js.map": "/Prasadprd.github.io/MonstersRolodexProject/static/js/2.356d906f.chunk.js.map",
+    "index.html": "/Prasadprd.github.io/MonstersRolodexProject/index.html",
+    "precache-manifest.a491da90f4acde0033390b31a8923c69.js": "/Prasadprd.github.io/MonstersRolodexProject/precache-manifest.a491da90f4acde0033390b31a8923c69.js",
+    "service-worker.js": "/Prasadprd.github.io/MonstersRolodexProject/service-worker.js",
+    "static/css/main.6dc1deef.chunk.css.map": "/Prasadprd.github.io/MonstersRolodexProject/static/css/main.6dc1deef.chunk.css.map",
+    "static/js/2.356d906f.chunk.js.LICENSE.txt": "/Prasadprd.github.io/MonstersRolodexProject/static/js/2.356d906f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f6bcf97e.js",
+    "static/js/2.356d906f.chunk.js",
+    "static/css/main.6dc1deef.chunk.css",
+    "static/js/main.5e242992.chunk.js"
+  ]
+}
